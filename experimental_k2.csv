@@ -1,0 +1,37 @@
+Compound,k2,log_k2,Source,Notes
+"3,6-di(2-pyridyl)-s-tetrazine + TCO",2000.0,3.3010299957,Blackman et al. 2008,"Fast ligation in PBS, cell media, lysate"
+"3,6-di(2-pyridyl)-s-tetrazine + TCO (MeOH)",1140.0,3.0569048513,Blackman et al. 2008,Hydrophobic solvent slows reaction
+"3,6-di(2-pyridyl)-s-tetrazine + TCO (THF)",400.0,2.6020599913,Blackman et al. 2008,Low rate in aprotic solvent
+"3,6-dimethyl-1,2,4,5-tetrazine + s-TCO (axial)",57.7,1.7611758132,Versteegen et al. 2013,Strained TCOs accelerate rate
+dioxolane-TCO + tetrazine,54000.0,4.7323937598,Versteegen et al. 2013,Fast click-to-release construct
+"3,6-bis(2-pyridyl)-1,2,4,5-tetrazine + axial-TCO",57.7,1.7611758132,Versteegen et al. 2013,Release-enabled ADC model
+"3,6-bis(2-pyridyl)-1,2,4,5-tetrazine + equatorial-TCO",0.37,-0.4317982759,Versteegen et al. 2013,Isomer-dependent reactivity
+parent TCO + tetrazine (radioprobe),2000.0,3.3010299957,Li et al. 2010,Used for rapid 18F labeling
+TCO-Ab conjugate + [111In]-Tz,13000.0,4.1139433523,Rossin et al. 2010,Pretargeted in vivo ligation in mice
+"3,6-di(pyridyl)-s-tetrazine + TCO (PBS)",2000.0,3.3010299957,Blackman et al. 2008,"Used in cell media, lysate, PBS"
+"3,6-di(pyridyl)-s-tetrazine + TCO (MeOH)",1140.0,3.0569048513,Blackman et al. 2008,MeOH solvent effect
+"3,6-di(pyridyl)-s-tetrazine + TCO (THF)",400.0,2.6020599913,Blackman et al. 2008,Slow rate in THF
+TCO-Ab conjugate + [111In]-tetrazine,13000.0,4.1139433523,Rossin et al. 2010,"Pretargeted imaging, SPECT/CT in vivo"
+s-TCO (axial) + pyridyl-tetrazine,80000.0,4.903089987,Darko et al. 2014,"Fastest known variant, axial strain"
+s-TCO (equatorial) + pyridyl-tetrazine,22000.0,4.3424226808,Darko et al. 2014,Slower than axial isomer
+tetrazine 13 + TCO in PBS,13090.0,4.1169396466,Selvaraj & Fox 2013,Common drug-conjugate linker
+tetrazine 13 + TCO in 45:55 H2O:MeOH,5235.0,3.718916686,Selvaraj & Fox 2013,Solvent-decreased reactivity
+monoaryltetrazine 15 + TCO in H2O,6000.0,3.7781512504,Weissleder group 2012,Used in cell-labeling applications
+dipyridyl-s-tetrazine + anti-sTCO (H2O),3300000.0,6.5185139399,Wang et al. 2016,Fastest known sTCO system
+diphenyl-s-tetrazine + anti-sTCO (H2O),286000.0,5.4563660335,Wang et al. 2016,High reactivity with improved stability
+diphenyl-s-tetrazine + syn-sTCO (55:45 MeOH:H2O),37000.0,4.5686362358,Wang et al. 2016,Slightly more reactive diastereomer
+diphenyl-s-tetrazine + anti-sTCO (55:45 MeOH:H2O),33000.0,4.5185139399,Wang et al. 2016,Used for PET probe comparisons
+MePh + TCO-PEG4,990.0,2.99563519459755,Mikula et al. 2022,Phenyl-substituted Tz
+Me2Pyr + TCO-PEG4,5120.0,3.709269960975831,Mikula et al. 2022,"Methyl-2-pyridyl tetrazine, highest rate in study"
+Me3Pyr + TCO-PEG4,3000.0,3.4771212547196626,Mikula et al. 2022,Estimated from figure
+Me4Pyr + TCO-PEG4,2740.0,3.437750562820388,Mikula et al. 2022,4-pyridyl with methyl group
+MeEVE + TCO-PEG4,2750.0,3.439332693830263,Mikula et al. 2022,"Vinyl ether-Tz, non-electron withdrawing"
+MeDHP + TCO-PEG4,1820.0,3.2600713879850747,Mikula et al. 2022,Stable and reactive
+DHP2 + TCO-PEG4,6450.0,3.809559714635268,Mikula et al. 2022,Fastest among vinyl ethers
+2Pyr2 + TCO-PEG4,69400.0,4.841359470454855,Mikula et al. 2022,Extremely fast but unstable
+4-substituted aryltetrazine + TCO (DPBS),130000.0,5.113943352306837,Battisti et al. 2022,Upper range for 4-substituted derivatives
+4-substituted aryltetrazine + TCO (DPBS),20000.0,4.301029995663981,Battisti et al. 2022,Lower range for 4-substituted derivatives
+5-substituted aryltetrazine + TCO (DPBS),110000.0,5.041392685158225,Battisti et al. 2022,Upper range for 5-substituted derivatives
+5-substituted aryltetrazine + TCO (DPBS),70000.0,4.845098040014257,Battisti et al. 2022,Lower range for 5-substituted derivatives
+6-substituted aryltetrazine + TCO (DPBS),80000.0,4.903089986991944,Battisti et al. 2022,Upper range for 6-substituted derivatives
+6-substituted aryltetrazine + TCO (DPBS),25000.0,4.3979400086720375,Battisti et al. 2022,Lower range for 6-substituted derivatives
